@@ -2,6 +2,13 @@ package com.klaus.base.util;
 
 import com.klaus.base.entity.Result;
 
+
+/**
+ * description:返回结果相关工具类
+ *
+ * @author klaus
+ * @date 2019/7/3 11:35
+ */
 public class ResultUtil {
 
     public static Result success(Object object) {

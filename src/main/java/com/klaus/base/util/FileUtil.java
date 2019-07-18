@@ -3,12 +3,12 @@ package com.klaus.base.util;
 import java.io.*;
 
 /**
- * description:
+ * description:文件操作相关工具类
  *
  * @author klaus
  * @date 2019/7/3 11:35
  */
-public class FileUtils {
+public class FileUtil {
 
 
     /**
